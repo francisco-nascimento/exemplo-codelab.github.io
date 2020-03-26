@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-03-26T02:09:47-03:00",
+  "id": "fnj-webcorp-springboot",
+  "duration": 25,
+  "title": "Programação de Software Corporativo com Spring Boot",
+  "summary": "Curso de Programação de Software Corporativo usando Spring Boot",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "java",
+    "springbootn"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/orgs/francisco-nascimento/",
+  "ga": "webcorp-120",
+  "url": "fnj-webcorp-springboot"
+}
